@@ -1,0 +1,195 @@
+{
+    "service_ids": [
+      {
+        "ServiceID": "Plumber",
+        "Description": "Plumbing services including repairs, installations, and maintenance.",
+        "Category": "Home Services"
+      },
+      {
+        "ServiceID": "Electrician",
+        "Description": "Electrical services including wiring, installations, and repairs.",
+        "Category": "Home Services"
+      },
+      {
+        "ServiceID": "Handyman",
+        "Description": "General handyman services for home repairs and small tasks.",
+        "Category": "Home Services"
+      },
+      {
+        "ServiceID": "Gardener",
+        "Description": "Gardening and landscaping services including lawn care and plant maintenance.",
+        "Category": "Outdoor Services"
+      },
+      {
+        "ServiceID": "Carpenter",
+        "Description": "Carpentry services for construction, repairs, and custom projects.",
+        "Category": "Home Services"
+      },
+      {
+        "ServiceID": "Installer",
+        "Description": "Installation services for various items such as appliances, fixtures, and equipment.",
+        "Category": "Home Services"
+      },
+      {
+        "ServiceID": "Painter",
+        "Description": "Interior and exterior painting services for homes and commercial spaces.",
+        "Category": "Home Services"
+      },
+      {
+        "ServiceID": "Roofing",
+        "Description": "Roofing services including installation, repairs, and maintenance.",
+        "Category": "Home Services"
+      },
+      {
+        "ServiceID": "Pest Control",
+        "Description": "Pest control services for dealing with insects, rodents, and other pests.",
+        "Category": "Home Services"
+      },
+      {
+        "ServiceID": "Cleaning",
+        "Description": "Professional cleaning services for homes and commercial spaces.",
+        "Category": "Home Services"
+      },
+      {
+        "ServiceID": "Landscaping",
+        "Description": "Comprehensive landscaping services including design, installation, and maintenance.",
+        "Category": "Outdoor Services"
+      },
+      {
+        "ServiceID": "Appliance Repair",
+        "Description": "Repair and maintenance services for household appliances.",
+        "Category": "Home Services"
+      },
+      {
+        "ServiceID": "Furniture Assembly",
+        "Description": "Assembly services for furniture and other ready-to-assemble items.",
+        "Category": "Home Services"
+      },
+      {
+        "ServiceID": "Window Cleaning",
+        "Description": "Professional window cleaning services for residential and commercial properties.",
+        "Category": "Home Services"
+      },
+      {
+        "ServiceID": "HVAC",
+        "Description": "Heating, ventilation, and air conditioning services including installation, repairs, and maintenance.",
+        "Category": "Home Services"
+      },
+      {
+        "ServiceID": "Flooring",
+        "Description": "Flooring installation and repair services for various types of flooring materials.",
+        "Category": "Home Services"
+      },
+      {
+        "ServiceID": "Security Systems",
+        "Description": "Installation and maintenance of security systems including alarms, cameras, and access control.",
+        "Category": "Home Services"
+      },
+      {
+        "ServiceID": "Interior Design",
+        "Description": "Professional interior design services for homes and commercial spaces.",
+        "Category": "Design Services"
+      },
+      {
+        "ServiceID": "Moving Services",
+        "Description": "Moving and relocation services for residential and commercial clients.",
+        "Category": "Home Services"
+      },
+      {
+        "ServiceID": "Computer Repair",
+        "Description": "Repair and troubleshooting services for computers and related devices.",
+        "Category": "Technology Services"
+      },
+      {
+        "ServiceID": "Photography",
+        "Description": "Professional photography services for events, portraits, and product photography.",
+        "Category": "Creative Services"
+      },
+      {
+        "ServiceID": "Interior Painting",
+        "Description": "Interior painting services for residential and commercial properties.",
+        "Category": "Home Services"
+      },
+      {
+        "ServiceID": "Exterior Painting",
+        "Description": "Exterior painting services for residential and commercial properties.",
+        "Category": "Home Services"
+      },
+      {
+        "ServiceID": "Carpet Cleaning",
+        "Description": "Professional carpet cleaning services for homes and commercial spaces.",
+        "Category": "Home Services"
+      },
+      {
+        "ServiceID": "Home Theater Installation",
+        "Description": "Installation and setup of home theater systems and audio-visual equipment.",
+        "Category": "Technology Services"
+      },
+      {
+        "ServiceID": "HVAC",
+        "Description": "Heating, ventilation, and air conditioning services including installation, repairs, and maintenance.",
+        "Category": "Home Services"
+      },
+      {
+        "ServiceID": "Flooring",
+        "Description": "Flooring installation and repair services for various types of flooring materials.",
+        "Category": "Home Services"
+      },
+      {
+        "ServiceID": "Security Systems",
+        "Description": "Installation and maintenance of security systems including alarms, cameras, and access control.",
+        "Category": "Home Services"
+      },
+      {
+        "ServiceID": "Interior Design",
+        "Description": "Professional interior design services for homes and commercial spaces.",
+        "Category": "Design Services"
+      },
+      {
+        "ServiceID": "Moving Services",
+        "Description": "Moving and relocation services for residential and commercial clients.",
+        "Category": "Home Services"
+      },
+      {
+        "ServiceID": "Computer Repair",
+        "Description": "Repair and troubleshooting services for computers and related devices.",
+        "Category": "Technology Services"
+      },
+      {
+        "ServiceID": "General Contractor",
+        "Description": "General contracting services for construction and renovation projects.",
+        "Category": "Construction Services"
+      },
+      {
+        "ServiceID": "Plastering",
+        "Description": "Plastering and drywall services for smooth and finished walls and ceilings.",
+        "Category": "Construction Services"
+      },
+      {
+        "ServiceID": "Roofing Contractor",
+        "Description": "Roofing contractor services for installation, repairs, and maintenance of roofs.",
+        "Category": "Construction Services"
+      },
+      {
+        "ServiceID": "Concrete Work",
+        "Description": "Concrete work services including foundations, driveways, and sidewalks.",
+        "Category": "Construction Services"
+      },
+      {
+        "ServiceID": "Cabinet Maker",
+        "Description": "Custom cabinet making services for kitchens, bathrooms, and other spaces.",
+        "Category": "Carpentry Services"
+      },
+      {
+        "ServiceID": "Tiling and Flooring",
+        "Description": "Tile and flooring installation services for various types of materials.",
+        "Category": "Construction Services"
+      },
+      {
+        "ServiceID": "Masonry",
+        "Description": "Masonry services for brickwork, stonework, and other structural elements.",
+        "Category": "Construction Services"
+      }
+    ]
+  }
+  
