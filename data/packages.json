@@ -1,0 +1,105 @@
+{
+    "packages": [
+      {
+        "id": 1,
+        "title": "Basic Package",
+        "services": [
+          {
+            "id": 1,
+            "title": "Lawn Care"
+          },
+          {
+            "id": 2,
+            "title": "Snow Removal"
+          },
+          {
+            "id": 3,
+            "title": "Pool Maintenance"
+          }
+        ],
+        "price": 800
+      },
+      {
+        "id": 2,
+        "title": "Enhanced Package",
+        "services": [
+          {
+            "id": 1,
+            "title": "Lawn Care"
+          },
+          {
+            "id": 2,
+            "title": "Snow Removal"
+          },
+          {
+            "id": 3,
+            "title": "Pool Maintenance"
+          },
+          {
+            "id": 4,
+            "title": "Seasonal Planting"
+          },
+          {
+            "id": 5,
+            "title": "Gutter Cleaning"
+          },
+          {
+            "id": 6,
+            "title": "Window Cleaning"
+          },
+          {
+            "id": 7,
+            "title": "Roof Inspection"
+          }
+        ],
+        "price": 2000
+      },
+      {
+        "id": 3,
+        "title": "All-Inclusive Package",
+        "services": [
+          {
+            "id": 1,
+            "title": "Lawn Care"
+          },
+          {
+            "id": 2,
+            "title": "Snow Removal"
+          },
+          {
+            "id": 3,
+            "title": "Pool Maintenance"
+          },
+          {
+            "id": 4,
+            "title": "Seasonal Planting"
+          },
+          {
+            "id": 5,
+            "title": "Gutter Cleaning"
+          },
+          {
+            "id": 6,
+            "title": "Window Cleaning"
+          },
+          {
+            "id": 7,
+            "title": "Roof Inspection"
+          },
+          {
+            "id": 8,
+            "title": "Garden Maintenance"
+          },
+          {
+            "id": 9,
+            "title": "Deck Maintenance"
+          },
+          {
+            "id": 10,
+            "title": "Outdoor Furniture Maintenance"
+          }
+        ],
+        "price": 4000
+      }
+    ]
+  }

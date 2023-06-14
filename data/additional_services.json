@@ -1,0 +1,64 @@
+{
+  "services": [
+    {
+      "id": 1,
+      "title": "Lawn Care",
+      "description": "Regular mowing, edging, and maintenance of your lawn.",
+      "hours": 4
+    },
+    {
+      "id": 2,
+      "title": "Snow Removal",
+      "description": "Clearing snow from driveways, walkways, and sidewalks during winter.",
+      "hours": 2
+    },
+    {
+      "id": 3,
+      "title": "Pool Maintenance",
+      "description": "Cleaning and maintaining your pool, including water treatment and equipment checks.",
+      "hours": 3
+    },
+    {
+      "id": 4,
+      "title": "Seasonal Planting",
+      "description": "Planting and maintaining seasonal flowers and plants for a vibrant garden.",
+      "hours": 6
+    },
+    {
+      "id": 5,
+      "title": "Gutter Cleaning",
+      "description": "Removing debris and leaves from gutters to ensure proper water drainage.",
+      "hours": 2
+    },
+    {
+      "id": 6,
+      "title": "Window Cleaning",
+      "description": "Thoroughly cleaning windows, both interior and exterior, for a clear view.",
+      "hours": 2
+    },
+    {
+      "id": 7,
+      "title": "Roof Inspection",
+      "description": "Inspecting the roof for any damages or issues to ensure its longevity.",
+      "hours": 2
+    },
+    {
+      "id": 8,
+      "title": "Garden Maintenance",
+      "description": "Regular care for your garden, including pruning, weeding, and fertilizing.",
+      "hours": 4
+    },
+    {
+      "id": 9,
+      "title": "Deck Maintenance",
+      "description": "Cleaning and treating your deck to maintain its appearance and durability.",
+      "hours": 4
+    },
+    {
+      "id": 10,
+      "title": "Outdoor Furniture Maintenance",
+      "description": "Cleaning and preserving your outdoor furniture to prolong its lifespan.",
+      "hours": 3
+    }
+  ]
+}
