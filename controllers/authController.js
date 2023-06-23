@@ -1,7 +1,10 @@
 const authService = require('../services/authService');
 
 exports.login = (req, res) => {
-  const { username, password } = req.body;
+  const {username, password} = req.body;
+  
+  console.log(`authController.js - line: 6 ->> {username, password}`, username, password)
+
   authService.login(username, password)
     .then((user) => {
       req.session.user = user;

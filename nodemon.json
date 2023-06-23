@@ -1,0 +1,7 @@
+{
+  "watch": ["**/**/*.js", "server.js"],
+  "pollingInterval": 500,
+  "ext": "js,json",
+  "ignore": ["node_modules", "data"],
+  "legacyWatch": true
+}

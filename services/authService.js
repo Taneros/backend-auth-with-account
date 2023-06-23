@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const usersFilePath = path.join(__dirname, '../../data/users.json');
+const usersFilePath = path.join(__dirname, '../data/users.json');
 
 exports.login = (username, password) => {
   return new Promise((resolve, reject) => {
@@ -9,11 +9,14 @@ exports.login = (username, password) => {
       if (err) {
         reject(err);
       } else {
-        const users = JSON.parse(data);
+        const users = JSON.parse( data );
+        console.log(`authService.js - line: 13 ->> users`, users)
         const user = users.find((u) => u.username === username && u.password === password);
-        if (user) {
+        if ( user ) {
+          console.log(`authService.js - line: 16 ->> IF user found `, user)
           resolve(user);
         } else {
+          console.log(`authService.js - line: 19 ->> ELSE not found`, )
           reject('Invalid username or password');
         }
       }
