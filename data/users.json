@@ -1,10 +1,5 @@
 [
   {
-    "username": "adm",
-    "password": "luxmsbi",
-    "id": "270c4584-6013-46ec-8f58-43003c22e788"
-  },
-  {
     "username": "test",
     "password": "test",
     "id": "2600509e-4960-4c1b-97bb-11c4b58fe0bd"
@@ -13,5 +8,15 @@
     "username": "t",
     "password": "t",
     "id": "5c6518c8-171b-457d-918e-b33e318f9af9"
+  },
+  {
+    "username": "555",
+    "password": "555",
+    "id": "843fffcc-4873-4c97-9257-802988190867"
+  },
+  {
+    "username": "666",
+    "password": "666",
+    "id": "4520ac5f-69f4-4b6c-8396-1cefc57600bd"
   }
 ]

@@ -28,5 +28,35 @@
       "plotSize": "345",
       "photo": null
     }
+  },
+  {
+    "id": "843fffcc-4873-4c97-9257-802988190867",
+    "propertyCard": {
+      "title": "My Pretty House",
+      "address": "555",
+      "city": "555",
+      "postalCode": "555",
+      "country": "",
+      "bedrooms": "",
+      "bathrooms": "",
+      "totalArea": "",
+      "plotSize": "",
+      "photo": null
+    }
+  },
+  {
+    "id": "4520ac5f-69f4-4b6c-8396-1cefc57600bd",
+    "propertyCard": {
+      "title": "My Pretty House",
+      "address": "666",
+      "city": "66",
+      "postalCode": "66",
+      "country": "",
+      "bedrooms": "",
+      "bathrooms": "",
+      "totalArea": "",
+      "plotSize": "",
+      "photo": null
+    }
   }
 ]
