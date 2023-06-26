@@ -1,10 +1,17 @@
 [
   {
-    "username": "admin",
-    "password": "admin"
+    "username": "adm",
+    "password": "luxmsbi",
+    "id": "270c4584-6013-46ec-8f58-43003c22e788"
   },
   {
-    "username": "renat",
-    "password": "renat"
+    "username": "test",
+    "password": "test",
+    "id": "2600509e-4960-4c1b-97bb-11c4b58fe0bd"
+  },
+  {
+    "username": "t",
+    "password": "t",
+    "id": "5c6518c8-171b-457d-918e-b33e318f9af9"
   }
 ]

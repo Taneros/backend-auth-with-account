@@ -14,5 +14,7 @@ next();
 router.post('/login', authController.login);
 router.get('/logout', authController.logout);
 router.post('/signin', authController.signin);
+router.post('/property', authController.propertyCard);
+router.post('/property/edit', authController.propertyCardEdit);
 
 module.exports = router;

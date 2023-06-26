@@ -1,0 +1,32 @@
+[
+  {
+    "id": "6980bb6a-6fd5-4c09-97d2-ddf453a44f02",
+    "propertyCard": {
+      "title": "My Pretty House",
+      "address": "23452345",
+      "city": "fsdf",
+      "postalCode": "123",
+      "country": "sdfsd",
+      "bedrooms": "",
+      "bathrooms": "",
+      "totalArea": "",
+      "plotSize": "",
+      "photo": null
+    }
+  },
+  {
+    "id": "5c6518c8-171b-457d-918e-b33e318f9af9",
+    "propertyCard": {
+      "title": "My Pretty House",
+      "address": "123124",
+      "city": "3453",
+      "postalCode": "345",
+      "country": "345",
+      "bedrooms": "8",
+      "bathrooms": "",
+      "totalArea": "345",
+      "plotSize": "345",
+      "photo": null
+    }
+  }
+]
